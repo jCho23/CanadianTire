@@ -1,7 +1,7 @@
 ﻿<Properties StartupConfiguration="{871FFA72-8608-402A-8486-79807A981AD6}|Unit Tests">
   <MonoDevelop.Ide.Workbench ActiveDocument="CanadianTire/Tests.cs">
     <Files>
-      <File FileName="CanadianTire/Tests.cs" Line="244" Column="8" />
+      <File FileName="CanadianTire/Tests.cs" Line="223" Column="4" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
@@ -10,4 +10,5 @@
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.ItemProperties.CanadianTire PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
 </Properties>
